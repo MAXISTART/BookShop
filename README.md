@@ -5,4 +5,4 @@
 
 下面是预览效果
 
-![image](https://github.com/MAXISTART/BookShop/raw/master/github作品预览.gif)
+![image](https://github.com/MAXISTART/BookShop/raw/master/WebRoot/github第二幅作品.gif)
